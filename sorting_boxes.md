@@ -77,7 +77,7 @@ There are 6 parcels, and the heaviest should be at position 3.  Hence the final 
 
 If we use the same approach as in Example 1, we get the following efforts
 ```
-(600)   20 30 40 80 70 60
+(600)  20 30 40 80 70 60
 (3200) 20 30 80 40 70 60   
 (1200) 60 30 80 40 70 20
 (1400) 60 30 80 40 20 70
