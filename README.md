@@ -1,6 +1,6 @@
-# JavaScript-Challenges
+# Coding-Challenges
 
-#### Exercises prepared for beginers to excel in plain JS
+#### Exercises prepared for beginers to excel in coding 
 
 
 For all questions, validate the input data
