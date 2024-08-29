@@ -67,4 +67,16 @@ The program should allow for the following interactions:
 
 The output should be printed on the console, showing all actions taken by members, librarians, and the system’s responses.
 
+## Example:
+```
+python3 oops.py should dispaly the below output
 
+1. List Books (Dispaly the book info)
+2. Add Book to library
+3. Remove Book from library
+4. Borrow Book from library
+5. Add Member to library
+6. Remove Member from library
+7. Add Librarian
+8. Remove Librarian
+```
