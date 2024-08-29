@@ -5,24 +5,24 @@ Create a Python program that simulates a Library Management System. The program 
 ## Requirements:
 
 ### 1. Classes and Objects:
-
+```
 Person Class:
-Attributes: name, age
-Method: display()
+  Attributes: name, age
+  Method: display()
 Librarian Class (Inherits from Person):
-Additional Attribute: employee_id
-Methods: display(), manage_books()
+  Additional Attribute: employee_id
+  Methods: display(), manage_books()
 Member Class (Inherits from Person):
-Additional Attribute: member_id
-Methods: display(), borrow_book(book), return_book(book)
+  Additional Attribute: member_id
+  Methods: display(), borrow_book(book), return_book(book)
 Book Class:
-Attributes: title, author, isbn, available
-Method: display()
+  Attributes: title, author, isbn, available
+  Method: display()
 Library Class:
-Attribute: name
-Contains a list of Book objects (Composition)
-Methods: add_book(book), display_books()
-
+  Attribute: name
+  Contains a list of Book objects (Composition)
+  Methods: add_book(book), display_books()
+```
 ### 2. Encapsulation:
 Encapsulate data within the classes using the __init__ method.
 Protect attributes by setting them as private or protected where necessary.
