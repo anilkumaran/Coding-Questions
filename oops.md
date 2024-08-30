@@ -79,4 +79,5 @@ python3 oops.py should dispaly the below output
 6. Remove Member from library
 7. Add Librarian
 8. Remove Librarian
+9. Exit
 ```
